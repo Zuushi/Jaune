@@ -21,4 +21,4 @@ screen // une bulle d'information s'ouvre, appuez sur la touche entrée pour pas
 node init-server.js // le serveur se lance
 ctrl + a + p // ferme la fenêtre actuelle sans détruire le processus
 ```
-- Le serveur se lance à l'adresse du server:port
+- Le site est en ligne sur l'adresse du server:port
