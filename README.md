@@ -1,6 +1,6 @@
 # Jaune
 ## Avec FileZilla
-# Lien pour télécharger : https://filezilla-project.org/
+Lien pour télécharger : https://filezilla-project.org/
 - Fichier > Gestionnaire de sites...
 - Cliquer sur "nouveau site"
 - Choisir le protocole SFTP
@@ -12,7 +12,7 @@
 
 # Le serveur ne répond plus
 ## Avec Putty
-# Lien pour télécharger : https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+Lien pour télécharger : https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 - Ouvrir une session avec ses identifiants
 - naviguer dans /home/nodejs-app/jaune
 - Lancer ces commandes : 
